@@ -1,0 +1,29 @@
+.nav{
+  width: 100%;
+  padding-left: 45%;
+}
+a:hover{
+    color: blueviolet;
+}
+img{
+    height: 90%;
+    width: 100%;
+}
+.txt{
+    position: absolute;
+    top: 30%;
+    left: 6%;
+    font-size:x-large
+}
+.r{
+    background-color: rgb(187, 154, 218);
+    height: 70%;
+    width: 100%;
+}
+button:hover{
+    color: grey;
+}
+.progress-bar{
+    height: 2%;
+    
+}
